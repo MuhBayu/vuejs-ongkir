@@ -1,6 +1,6 @@
-# vueapp
+# Vuejs Ongkir
 
-> Vuejs CekOngkir
+> Vuejs Cek Ongkir use [RajaOngkir.com](https://rajaongkir.com/ "RajaOngkir.com") API
 
 ## Build Setup
 
